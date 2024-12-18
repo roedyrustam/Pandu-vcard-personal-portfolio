@@ -2,7 +2,7 @@ Pandu vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
+alt = Pandu Desa 
 Richard hanrick
 Web developer
 
