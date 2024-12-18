@@ -1,4 +1,4 @@
-# vCard - Personal portfolio
+# PanduvCard - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/roedyrustam/Pandu-vcard-personal-portfolioo)
 ![GitHub stars](https://img.shields.io/github/stars/roedyrustam/Pandu-vcard-personal-portfolio?style=social)
